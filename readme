@@ -1,0 +1,9 @@
+hola bueno cuento que cambie de negocio para el simulador por que con los celulares no se me ocurria nada
+me canse de pensar , bueno descarte el html y el css y me concentre en la devolucion que me devolucion
+y me concentre en las pautas solicitadas y remarcadas 
+
+el programa pide un monto y una cantidad de tiempo en meses
+para el calculo se creo una funcion y se agrgo un ciclo for para imprimir
+por consola el numero y el precio de cada cuota.
+y para finalizar se pregunta si quiere continuar o no
+si la respuesta es "si" se recarga la pagina y si es "no" finaliza el programa saludos y graciias 
